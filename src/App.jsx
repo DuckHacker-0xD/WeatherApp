@@ -23,7 +23,7 @@ function App() {
 		'May',
 		'June',
 		'July',
-		'Август',
+		'Августа',
 		'September',
 		'October',
 		'November',

@@ -98,6 +98,7 @@ button:focus-visible {
 .wrapper img {
 	width: 250px;
 	margin-bottom: 24px;
+	pointer-events: none;
 }
 .temperature {
 	font-size: 60px;
